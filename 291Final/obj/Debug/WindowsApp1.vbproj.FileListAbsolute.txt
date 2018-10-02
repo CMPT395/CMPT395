@@ -1,0 +1,13 @@
+C:\Users\xja19\Source\Repos\WindowsApp1\WindowsApp1\bin\Debug\WindowsApp1.exe.config
+C:\Users\xja19\Source\Repos\WindowsApp1\WindowsApp1\bin\Debug\WindowsApp1.exe
+C:\Users\xja19\Source\Repos\WindowsApp1\WindowsApp1\bin\Debug\WindowsApp1.pdb
+C:\Users\xja19\Source\Repos\WindowsApp1\WindowsApp1\bin\Debug\WindowsApp1.xml
+C:\Users\xja19\Source\Repos\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.vbprojAssemblyReference.cache
+C:\Users\xja19\Source\Repos\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.Form2.resources
+C:\Users\xja19\Source\Repos\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.Resources.resources
+C:\Users\xja19\Source\Repos\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.vbproj.GenerateResource.cache
+C:\Users\xja19\Source\Repos\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.vbproj.CoreCompileInputs.cache
+C:\Users\xja19\Source\Repos\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.exe
+C:\Users\xja19\Source\Repos\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.xml
+C:\Users\xja19\Source\Repos\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.pdb
+C:\Users\xja19\Source\Repos\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.login.resources
